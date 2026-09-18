@@ -1,1 +1,2 @@
 Lista inicial de empleados de Pastelería HANLU
+Empleado: Ana - Administradora
