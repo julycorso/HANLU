@@ -1,2 +1,3 @@
 Lista inicial de pedidos de Pastelería HANLU
 Pedido: Torta de chocolate - 2 unidades
+Registro de pedidos de la pasteleria HANLU
